@@ -1,0 +1,36 @@
+{
+    "profil":{
+        "description":"Je suis passionné d'informatique (étudiant en R&T et cybersécurité), d'automobile, de production de musique (moi même artiste avec Ableton et propriétaire de matériel tel que des table sde mixage et des synthétiseurs), et enfin d'horlogerie. Le but ici est de me fournir des articles frais et nouveaux, afin de me renseigner quotidiennement sur les nouveautés dans tout ces domaines et ainsi faire une 'veille' et rester informé sur ces actualités."
+    },
+
+    "categories":{
+
+        "tech":{
+            "interets":["nouveautés dans le monde de l'IA", "nouvelles avancées technologiques", "actualités sur la cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)", "actualités des Réseaux & Télécommunications et avancées technologiques de ce domaine", "nouvelles sorites (apps & logiciels) majeures"],
+            "exclure":["articles promotionnels", "nouveaux produits sans grande pluvalue technologique (tels que Apple)","implémentations intempestives de l'IA partout, sans réeelle valeur ajoutée", "spéculations de produits venant de sources non fiables"]
+        },
+
+        "music":{
+            "interets":["nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)", "actualités sur les avancées technologiques dans le domaine de la musique", "actualités dans le domaine du traitement du signal et de l'ingénérie sonore"],
+            "exclure":["nouveaux artistes et sorties musicales", "actualités sur les festivals"]
+        },
+
+        "automotive":{
+            "interets":["nouveaux modèles pour les passionés", "stratégies de constructeurs", "avancées technologiques (hors IA, conduite autonome et électrification)"],
+            "exclure":["spéculations clickbait sur le marché chinois", "voitures chinoises", "implémentation de l'IA", "conduite autonome", "voitures électriques"]
+        },
+
+        "watchmaking":{
+            "interets":["nouveautés horlogères et modèles intéréssants"],
+            "exclure":["articles promotionnels et marques de luxe sans valeur dans le monde de l'horlogerie"]
+        }
+
+    },
+
+    "regles_generales":{
+
+        "favoriser":["articles complets et intéréssants", "articles provenant de sources fiables et reconnues", "articles récents"],
+        "eviter":["publicitées et articles promotionnels", "articles provenant de sources non fiables ou peu connues", "articles trop anciens", "article ne présentant pas d'actualités"]
+
+    }
+}
