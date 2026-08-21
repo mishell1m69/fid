@@ -1,12 +1,67 @@
 [
     {
-        "nom": "",
-        "url": "",
-        "categorie": ""
+        "nom": "Le monde informatique",
+        "url": "https://www.lemondeinformatique.fr/",
+        "categorie": "tech"
     },
     {
-        "nom": "",
-        "url": "",
-        "categorie": ""
-    }
+        "nom": "Usine digitale",
+        "url": "https://www.usine-digitale.fr/cybersecurite/",
+        "categorie": "tech"
+    },
+    {
+        "nom": "CERT",
+        "url": "https://www.cert.ssi.gouv.fr/",
+        "categorie": "tech"
+    },
+    {
+        "nom": "Clubic",
+        "url": "https://www.clubic.com/actualites-informatique/",
+        "categorie": "tech"
+    },
+    {
+        "nom": "Caradisiac",
+        "url": "https://www.caradisiac.com/actualite/toute-l-actu-auto/",
+        "categorie": "automotive"
+    },
+    {
+        "nom": "Automobile magazine",
+        "url": "https://www.automobile-magazine.fr/actualites/toute-l-actualite",
+        "categorie": "automotive"
+    },
+    {
+        "nom": "Autoplus",
+        "url": "https://www.autoplus.fr/actualite",
+        "categorie": "automotive"
+    },
+    {
+        "nom": "Sound on sound",
+        "url": "https://www.soundonsound.com/news",
+        "categorie": "music"
+    },
+    {
+        "nom": "Music tech",
+        "url": "https://musictech.com/news/",
+        "categorie": "music"
+    },
+    {
+        "nom": "Rekkerd",
+        "url": "https://rekkerd.org/latest-news/",
+        "categorie": "music"
+    },
+    {
+        "nom": "Watchtime",
+        "url": "https://www.watchtime.com/news",
+        "categorie": "watchmaking"
+    },
+    {
+        "nom": "The watch observer",
+        "url": "https://thewatchobserver.ouest-france.fr/",
+        "categorie": "watchmaking"
+    },
+    {
+        "nom": "Le Figaro horlogerie",
+        "url": "https://www.lefigaro.fr/horlogerie",
+        "categorie": "watchmaking"
+    },
 ]
