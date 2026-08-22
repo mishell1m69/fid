@@ -1,0 +1,508 @@
+{
+  "2ea03759bc72e0b6941fb1349daac4c60a1ba83d81d6ffe04f63d4a036eba6d6": {
+    "summary": "John Ternus, le nouveau PDG d'Apple, pourrait prendre des risques plus importants, notamment par le biais de nouvelles acquisitions. Bank of America prévoit une approche plus audacieuse de la part de Ternus, qui pourrait explorer de nouvelles catégories comme les lunettes à intelligence artificielle ou la robotique.",
+    "key_points": [
+      "John Ternus prendra la direction générale d'Apple",
+      "Bank of America prévoit une approche plus audacieuse de la part de Ternus",
+      "La banque suggère des acquisitions potentielles pour augmenter les risques"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les préférences de l'utilisateur incluent l'IA, les nouvelles avancées technologiques et la cybersécurité, ce qui rend cet article pertinent pour lui.",
+    "matched_interests": [
+      "nouvelles avancées technologiques",
+      "actualités sur la cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)",
+      "actualités des Réseaux & Télécommunications et avancées technologiques de ce domaine"
+    ]
+  },
+  "146d9dedc5320d75ab093106f5a4c890ecccb71ae2b1543ee40dfc62afb4f7c3": {
+    "summary": "AliExpress propose des remises et codes promo allant jusqu'à 110€ sur une sélection de produits tech et maison pour la rentrée. Offres incluent smartphones, tablettes, composants informatiques, montres connectées, audio, mobilité douce et plus.",
+    "key_points": [
+      "Remises allant jusqu'à 110€ sur une large sélection de produits tech et maison",
+      "Opération valable jusqu'au 26 août",
+      "Offres couvrent smartphones, tablettes, composants informatiques et plus",
+      "Codes promo s'appliquent par paliers selon le montant du panier"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les offres couvrent des produits d'importance pour la rentrée et sont proposées par une source fiable.",
+    "matched_interests": [
+      "nouveautés dans le monde de l'IA",
+      "nouvelles avancées technologiques",
+      "actualités sur la cybersécurité",
+      "actualités des Réseaux & Télécommunications",
+      "nouvelles sorites (apps & logiciels) majeures",
+      "produits de mobilité douce",
+      "produits de production de musique",
+      "produits d'horlogerie"
+    ]
+  },
+  "4bea0035c37a1cc17b5ee85d6623d3716acae80b72a882161a45a6c37dae4e34": {
+    "summary": "Une plainte en justice collective a été déposée contre Oura pour tromperie, accusant l'entreprise de promettre des capacités de mesure du sommeil inatteignables par ses bagues connectées, alors que la précision de leurs estimations repose sur des calculs générés par l'IA.",
+    "key_points": [
+      "Oura est accusée de promettre des capacités de mesure du sommeil inatteignables par ses bagues connectées.",
+      "La plainte accuse Oura de tromperie en faisant des promesses marketing inexactes.",
+      "Les utilisateurs ont rapporté des erreurs dans la détection des cycles de sommeil.",
+      "La précision des mesures d'Oura est contestée par des sources internationales depuis plusieurs années."
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les préférences de l'utilisateur incluent des intérêts dans l'IA, les nouvelles avancées technologiques et la cybersécurité, ce qui rend cet article pertinent pour lui.",
+    "matched_interests": [
+      "nouveautés dans le monde de l'IA",
+      "nouvelles avancées technologiques",
+      "actualités sur la cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)"
+    ]
+  },
+  "e3825559a17f123518c0fd031d353ba700be7eeb462f5c21487c7f399695b77d": {
+    "summary": "Des chercheurs ont découvert que des cartes de crédit expirées continuent de fonctionner dans des portefeuilles numériques comme Apple Pay ou Google Pay, sans être désactivées automatiquement. Les banques ne protègent pas la date d'expiration imprimée par des mécanismes cryptographiques, ce qui rend les cartes exploitables tant que la puce n'est pas détruite.",
+    "key_points": [
+      "Les cartes de crédit expirées continuent de fonctionner dans des portefeuilles numériques.",
+      "Les banques ne protègent pas la date d'expiration imprimée par des mécanismes cryptographiques.",
+      "Les cartes expirées sont encore exploitables tant que la puce n'est pas détruite.",
+      "Il est recommandé de détruire physiquement la carte expirée pour éviter les fraudes."
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les préférences de l'utilisateur incluent des intérêts dans la cybersécurité, les nouvelles avancées technologiques et les actualités des réseaux et télécommunications, ce qui rend cet article pertinent pour lui.",
+    "matched_interests": [
+      "nouvelles avancées technologiques",
+      "actualités sur la cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)",
+      "actualités des Réseaux & Télécommunications et avancées technologiques de ce domaine"
+    ]
+  },
+  "5c00129119236d16a5384489159ae8f578f5c33d493617ed7b5ad400aa9db82c": {
+    "summary": "Android 17 introduit des limites de mémoire par application, basées sur la RAM totale de l'appareil. Si une application dépasse ces seuils, Android peut d'abord dégrader ses performances avant de la fermer si la consommation continue de déraper.",
+    "key_points": [
+      "Introduction de limites de mémoire par application basées sur la RAM totale de l'appareil",
+      "Dégrader les performances avant de fermer l'application si la consommation continue de déraper",
+      "Application de ces limites pour contenir les comportements abusifs, notamment les fuites mémoire",
+      "Développement de nouveaux outils de diagnostic pour aider les développeurs à repérer les applications dépassant régulièrement les limites"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les limites de mémoire par application introduites par Android 17 sont directement liées à l'intérêt technologique de l'utilisateur, qui est passionné par l'IA, les nouvelles avancées technologiques et la cybersécurité.",
+    "matched_interests": [
+      "nouvelles avancées technologiques",
+      "actualités sur la cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)",
+      "actualités des Réseaux & Télécommunications et avancées technologiques de ce domaine"
+    ]
+  },
+  "8ca0468efe4d02259672f61f3b71e0c411966fa1a235bf6365e581bafc591b91": {
+    "summary": "Un chercheur en sécurité a réussi à faire fonctionner le partage de localisation via Find My sur une machine Linux, sans utiliser de Mac ou d'iPhone. Il a réussi à obtenir un certificat d'Apple, à obtenir un certificat de l'ami partageant sa position et à déchiffrer la position de l'ami.",
+    "key_points": [
+      "Le chercheur a réussi à faire fonctionner Find My sur Linux sans Mac ni iPhone.",
+      "Il a obtenu un certificat d'Apple pour s'authentifier.",
+      "Il a réussi à obtenir la clé secrète de l'ami partageant sa position.",
+      "Il a déchiffré la position de l'ami pour obtenir sa position réelle."
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les travaux de ce chercheur en sécurité fournissent des informations précieuses sur le fonctionnement interne d'Apple et peuvent aider à améliorer la sécurité des systèmes.",
+    "matched_interests": [
+      "nouveautés dans le monde de l'IA",
+      "nouvelles avancées technologiques",
+      "actualités sur la cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)",
+      "actualités des Réseaux & Télécommunications et avancées technologiques de ce domaine",
+      "nouvelles sorites (apps & logiciels) majeures"
+    ]
+  },
+  "ef69d35abab2fcbb78c60ae608cebffab5ec510d63b6af878534a34ca00ea204": {
+    "summary": "Ce boîtier Xiaomi permet d'équiper une chambre d'étudiant avec une interface moderne et des applications de streaming pour moins de 37€, offrant Google TV, Wi-Fi 6 et compatibilité Dolby Vision.",
+    "key_points": [
+      "Prix réduit à 36,71€ avec le code DSFR06",
+      "Livraison gratuite depuis un entrepôt français",
+      "Compatibilité Dolby Vision et Wi-Fi 6",
+      "Format compact et design arrondi"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Le boîtier Xiaomi répond aux préférences de l'utilisateur en offrant une solution abordable pour accéder à Google TV et des fonctionnalités avancées.",
+    "matched_interests": [
+      "nouveautés dans le monde de l'IA",
+      "actualités sur la cybersécurité",
+      "actualités des Réseaux & Télécommunications",
+      "nouvelles sorites (apps & logiciels)",
+      "produits technologiques abordables"
+    ]
+  },
+  "80093181d5884cbac95845ef17704874033eaa411af8c73b58150c8f09f50e31": {
+    "summary": "Spotify a introduit Soloist, un client de serveur Linux sans écran pour accéder à son catalogue complet et aux fonctionnalités Spotify Connect. Cet outil nécessite un compte Premium et est configuré via la ligne de commande. Il est compatible avec ARMv7, ARMv8 et x86_64.",
+    "key_points": [
+      "Spotify a lancé Soloist pour serveurs Linux sans écran.",
+      "Il nécessite un compte Premium Spotify.",
+      "Compatible avec ARMv7, ARMv8 et x86_64.",
+      "Il offre un catalogue complet de Spotify et l'accès Spotify Connect."
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les intérêts de l'utilisateur couvrent les domaines de l'informatique, de la production musicale et de la cybersécurité, qui sont tous concernés par cette innovation Spotify.",
+    "matched_interests": [
+      "nouveautés dans le monde de l'IA",
+      "actualités sur la cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)",
+      "actualités des Réseaux & Télécommunications",
+      "nouvelles sorites (apps & logiciels) majeures"
+    ]
+  },
+  "a55047e949e1ccd3d0f474b975111c7016d90a0c3d6d3d703d5748de96242851": {
+    "summary": "Ce billet met en lumière l'importance du gonflage correct des pneus dans la réduction de la consommation de carburant, soulignant que 80% des automobilistes négligent ce détail. Il explique comment un sous-gonflage peut augmenter la consommation de carburant et les coûts liés, ainsi que les risques de sécurité.",
+    "key_points": [
+      "Le sous-gonflage des pneus augmente la résistance au roulement et la consommation de carburant.",
+      "Une pression incorrecte peut coûter jusqu'à 300 euros par an à un véhicule.",
+      "Il est important de vérifier régulièrement la pression des pneus, surtout avant de partir.",
+      "La pression des pneus peut être affectée par la chaleur et le chargement du véhicule."
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les préférences de l'utilisateur incluent l'automobile et l'horlogerie, ce qui rend ce sujet pertinent pour lui.",
+    "matched_interests": [
+      "automobile",
+      "horlogerie"
+    ]
+  },
+  "b4c29e7840d05af0513bef659cd36e1d65ea23419e1355837863de27c1dca5fc": {
+    "summary": "Saily propose une eSIM avec data illimitée pour les voyageurs aux États-Unis, offrant une connexion sans surveillance de la consommation et permettant le partage de connexion. Les utilisateurs peuvent également obtenir un numéro de téléphone américain.",
+    "key_points": [
+      "eSIM Saily avec data illimitée pour les voyageurs aux États-Unis",
+      "Possibilité de partager la connexion avec d'autres appareils",
+      "Option de numéro de téléphone américain pour appels et SMS",
+      "Connexion disponible dans plusieurs États américains"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les préférences de l'utilisateur couvrent les domaines de l'informatique, de la production de musique et de la cybersécurité, ce qui rend l'article pertinent pour lui.",
+    "matched_interests": [
+      "actualités des Réseaux & Télécommunications",
+      "nouveaux apps & logiciels majeurs",
+      "cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)"
+    ]
+  },
+  "1647c9b5aece9e542e40b7e8df81c713b8fc47659077801c57a48859c603adb0": {
+    "summary": "La Toniebox 2, une enceinte audio interactive, a introduit quatre nouveaux Tonies consacrés à Pikachu, Bulbizarre, Salamèche et Carapuce, tous liés à l'univers Pokémon. Ces Tonies offrent des contenus audio inédits sur leurs Pokémon respectifs, accompagnés d'un professeur-narrateur.",
+    "key_points": [
+      "Introduction de quatre nouveaux Tonies Pokémon",
+      "Contenus audio inédits sur les Pokémon",
+      "Professeur-narrateur pour l'accompagner dans les aventures",
+      "Édition spéciale avec la Toniebox Jaune Eclair et les quatre Tonies"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les Tonies Pokémon sont une initiative innovante pour faire découvrir l'univers Pokémon aux enfants tout en offrant une expérience interactive et ludique.",
+    "matched_interests": [
+      "nouveautés dans le monde de l'IA",
+      "nouvelles avancées technologiques",
+      "actualités sur la cybersécurité",
+      "actualités des Réseaux & Télécommunications",
+      "nouvelles sorites (apps & logiciels)",
+      "horlogerie",
+      "production de musique"
+    ]
+  },
+  "6c29bfa99bab0d4c862165fc6ee6185a11a9b4e2ce8ab90907cb18289bdead3c": {
+    "summary": "Amazon prépare la rentrée avec 7 offres tech à bas prix, couvrant des domaines comme la maison connectée, l'image et la mobilité. Les offres incluent des prises intelligentes, des enceintes Alexa, une smart TV, un smartphone Google, un PC portable et un écran gaming.",
+    "key_points": [
+      "Amazon propose 7 ventes flash sur des produits tech pour la rentrée",
+      "Les offres couvrent la maison connectée, l'image et la mobilité",
+      "Des offres allant de quelques pourcents à plus de 55 % de réduction sont proposées"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les offres sont variées et couvrent plusieurs domaines technologiques, ce qui rend l'article pertinent pour un lecteur intéressé par l'IA, la cybersécurité, les réseaux et télécommunications, et les nouvelles sorites.",
+    "matched_interests": [
+      "nouveautés dans le monde de l'IA",
+      "nouvelles avancées technologiques",
+      "actualités sur la cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)",
+      "actualités des Réseaux & Télécommunications et avancées technologiques de ce domaine",
+      "nouvelles sorites (apps & logiciels) majeures"
+    ]
+  },
+  "19cc2b18bc58009474cf7bc8bcaf0b8f6ccac92f589694dbc9574545c7a1292a": {
+    "summary": "StackSocial propose une offre d'accès à vie à 1minAI Pro à 34,99€, permettant d'accéder à plusieurs modèles d'intelligence artificielle (GPT, Claude, Gemini, Llama, Mistral) sous une seule interface. Cette offre inclut un million de crédits par mois et jusqu'à 450 000 crédits gratuits supplémentaires.",
+    "key_points": [
+      "Accès à plusieurs modèles d'IA reconnus",
+      "Crédits gratuits pour un usage régulier",
+      "Paiement unique sans abonnement récurrent",
+      "Offre non cumulable avec d'autres codes de réduction"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "L'offre correspond aux intérêts de l'utilisateur, qui est passionné par l'IA, la cybersécurité et les nouvelles avancées technologiques.",
+    "matched_interests": [
+      "nouveautés dans le monde de l'IA",
+      "nouvelles avancées technologiques",
+      "actualités sur la cybersécurité",
+      "actualités des Réseaux & Télécommunications",
+      "nouvelles sorites (apps & logiciels) majeures"
+    ]
+  },
+  "54c7158704bd5d51e7c9b01164e62659fbd01aa07da1b1439f8da773a4c713a6": {
+    "summary": "Un chauffeur routier a été contrôlé par la gendarmerie alors qu'il avait perdu son permis de conduire. Après avoir été retiré son permis, il a repris la route et a été contrôlé à nouveau, cette fois avec un contrôle administratif de fourrière.",
+    "key_points": [
+      "Un chauffeur routier a été contrôlé par la gendarmerie alors qu'il avait perdu son permis de conduire.",
+      "Le chauffeur a été retiré son permis de conduire après avoir été testé positif aux drogues.",
+      "Le chauffeur a repris la route et a été contrôlé à nouveau, cette fois avec un contrôle administratif de fourrière.",
+      "Cet incident met en lumière les risques associés à la conduite après la confiscation de son permis de conduire."
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les préférences de l'utilisateur incluent l'automobile et l'horlogerie, ce qui rend cet article pertinent pour lui. De plus, il contient des informations récentes sur un événement réellement survenu.",
+    "matched_interests": [
+      "nouveaux modèles pour les passionés",
+      "stratégies de constructeurs",
+      "avancées technologiques (hors IA, conduite autonome et électrification)"
+    ]
+  },
+  "b3de300311d01d1a2b5cff1af8e7defec76ae4c1ecc43040f56e7d9cca541ce7": {
+    "summary": "Honda et Achilles ont créé une paire de baskets inspirées de la Honda Civic Type R, adaptée aux plus jeunes. Les chaussures coûtent environ 41 dollars et sont disponibles en trois teintes : White, Red et Pearl. Elles sont conçues pour imiter l'apparence de la Type R, avec des logos et des détails sportifs.",
+    "key_points": [
+      "Baskets inspirées de la Honda Civic Type R",
+      "Prix : environ 41 dollars",
+      "Trois teintes disponibles : White, Red et Pearl",
+      "Conçues pour imiter l'apparence de la Type R"
+    ],
+    "recommendation": false,
+    "relevance_score": 25,
+    "reason": "L'article concerne un produit innovant mais pas directement lié aux préférences de l'utilisateur, qui est plutôt intéressé par l'automobile, la production de musique et l'horlogerie.",
+    "matched_interests": [
+      "nouveaux modèles pour les passionés",
+      "avancées technologiques (hors IA, conduite autonome et électrification)"
+    ]
+  },
+  "b23e9db0968fa8e79c89773e0aa065190cdc9d5f7c515f81df934a0eab7facd5": {
+    "summary": "Ces outils appelés 'lookups' agrègent des bases de données volées lors de piratages informatiques. Ils permettent de retrouver des informations personnelles comme des adresses, des IBAN, ou des numéros de sécurité sociale, en fonction d'un nom, d'un e-mail ou d'un numéro de téléphone. La justice française a ouvert plusieurs enquêtes sur ces plateformes. Le prix d'entrée est dérisoire, mais les services proposent des accès illimités pour un coût modique.",
+    "key_points": [
+      "Lookups agrègent des bases de données volées lors de piratages informatiques.",
+      "Les outils fonctionnent comme des moteurs de recherche, mais leurs bases proviennent de fuites et de piratages.",
+      "La justice française a ouvert plusieurs enquêtes sur ces plateformes.",
+      "Le prix d'entrée est dérisoire, mais les services proposent des accès illimités pour un coût modique."
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les préférences de l'utilisateur incluent des intérêts dans la cybersécurité, l'IA, et les nouvelles avancées technologiques, ce qui rend cet article pertinent pour lui.",
+    "matched_interests": [
+      "nouvelles avancées technologiques",
+      "cybersécurité (attaques majeures mais également avancées technologiques dans ce domaine)",
+      "nouveautés dans le monde de l'IA"
+    ]
+  },
+  "7be39a79f725aedf6428e1663468f4afc3bfc033a54e670f064a34c6128313e5": {
+    "summary": "L'auteur raconte son expérience de conduite sur une vieille Peugeot 206, soulignant les sensations de pilotage qu'il a ressenties et l'importance de la voiture dans la formation de conducteur, avant de suggérer que les jeunes ne bénéficient pas de cette expérience.",
+    "key_points": [
+      "Conduite sur une Peugeot 206 ancienne",
+      "Sensation de pilotage intense",
+      "Formation de conducteur",
+      "Rétention de la voiture par la grand-mère"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Le contenu est pertinent pour les intérêts de l'utilisateur, qui est passionné par l'automobile et la production de musique.",
+    "matched_interests": [
+      "nouveaux modèles pour les passionés",
+      "avancées technologiques (hors IA, conduite autonome et électrification)",
+      "stratégies de constructeurs"
+    ]
+  },
+  "bb9f61e0b112cb6bb65b43482574a6fedbc30c56621f4b2a3c059e2af138ae20": {
+    "summary": "Plugin Boutique propose une réduction de 60% sur la Collection de Machine à Drums de Roland, un ensemble de cinq machines à rythme réalistes et modernisées. Cette offre est disponible jusqu'au 31 août 2026.",
+    "key_points": [
+      "Réduction de 60% sur la Collection de Machine à Drums de Roland",
+      "Inclut cinq machines à rythme réalistes et modernisées",
+      "Disponibles en formats VST3, AU et AAX pour Windows et macOS",
+      "Offre limitée à partir du 21 août 2026"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "L'article concerne un produit de production musicale (synthétiseur) qui correspond aux intérêts de l'utilisateur en matière de nouvelles technologies dans le domaine de la musique.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique",
+      "actualités dans le domaine du traitement du signal et de l'ingénierie sonore"
+    ]
+  },
+  "800550ab298a7c2c5445fd3f19d50ed8db4a0fc7750071d1b96342b389b000b5": {
+    "summary": "Plugin Boutique propose un réduction exclusive de 77% sur l'instrument de musique virtuelle Virtual Guitarist Cinedream par UJAM, qui coûte désormais 29 USD (contre 129 USD habituellement). Il est disponible jusqu'au 6 septembre 2026.",
+    "key_points": [
+      "Réduction exclusive de 77% sur Virtual Guitarist Cinedream par UJAM",
+      "Coût réduit : 29 USD (contre 129 USD habituellement)",
+      "Disponible jusqu'au 6 septembre 2026",
+      "Compatible avec Windows et macOS (VST/VST3, AU et AAX)"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les intérêts du profile incluent la production de musique et l'actualité dans le domaine de la musique, ce qui rend cet article pertinent.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique",
+      "actualités dans le domaine du traitement du signal et de l'ingénérie sonore"
+    ]
+  },
+  "0eccd6d75eb72288e17649a34ecb8336dd8a79cf5da7c791cd2c66dd423bdeeb": {
+    "summary": "Plugin Boutique propose une promotion sur le plugin de traitement de son KNOCK de Knock Audio, un effet qui imite le son unique de DECAP pour ses packs de samples de kits de batterie. Le plugin KNOCK inclut des effets comme Punch, Saturate, Sub et Air.",
+    "key_points": [
+      "KNOCK est un plugin de traitement de son pour batterie",
+      "Il est conçu par DECAP, un créateur de sons reconnu",
+      "Il comprend des effets comme Punch, Saturate, Sub et Air",
+      "Il est actuellement en promotion pour 99 USD jusqu'au 1er septembre 2026"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les intérêts de l'utilisateur couvrent les domaines de la production de musique, de l'informatique et de l'automobile, ce qui rend l'article pertinent pour lui.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique",
+      "actualités dans le domaine du traitement du signal et de l'ingénierie sonore"
+    ]
+  },
+  "dadc3ed1cc5db822b5d69e59665e43167fa53a7a147fa6e93f823e68285b67e7": {
+    "summary": "FeelYourSound a annoncé une nouvelle extension pour leur plugin de génie MIDI SongEngine, qui permet de transformer n'importe quel progression de cordes en arpeggios, lignes de basse et phrases de piano complexes. L'extension Modern Strings inclut 101 presets manuellement créés adaptés à différents genres musicaux.",
+    "key_points": [
+      "Nouvelle extension de SongEngine de FeelYourSound",
+      "Compatibilité VST/VST3 et AU",
+      "101 presets manuellement créés pour divers genres",
+      "Prix de l'extension : €25 EUR / $29 USD"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les intérêts de l'utilisateur couvrent le domaine de la production musicale et de l'automatisation des processus musicaux, ce qui rend cet article pertinent pour lui.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique",
+      "actualités dans le domaine du traitement du signal et de l'ingénierie sonore"
+    ]
+  },
+  "1152976e9997f07fbf18658b2a00e7863d136fe35ae5a7221cad8f7f89dd2547": {
+    "summary": "Timedomain a annoncé une mise à jour de son plateforme AI pour la synthèse vocale, les instruments intelligents et la production musicale générative. La version 2.1.6 d'ACE Studio inclut une option AI MV pour créer des clips promotionnels courts.",
+    "key_points": [
+      "Nouvelle option AI MV pour créer des clips promotionnels courts",
+      "Réduction du coût par rapport à un clip vidéo complet",
+      "Ajout de quatre paramètres de contrôle pour la synthèse vocale",
+      "Prévisualisation audio pour les voix et instruments dans les panels"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les préférences de l'utilisateur couvrent le domaine de la production musicale et de la technologie sonore, ce qui rend cet article pertinent.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique",
+      "actualités dans le domaine du traitement du signal et de l'ingénierie sonore"
+    ]
+  },
+  "677fba9e87d2ea452b3953a962925cb44bf1f40a68f7fe1109b5ac005c26778e": {
+    "summary": "Audio Plugin Deals propose un bundle de trois instruments de Kontakt de l'éditeur Hidden Path Audio à un prix réduit de seulement 15 USD pendant deux semaines. Ce bundle comprend BATTALION, BARRAGE et TRANZFORM, offrant une expérience sonore unique.",
+    "key_points": [
+      "Bundle de trois instruments de Kontakt à 15 USD",
+      "Offre limitée de 97% de réduction",
+      "Éditeur Hidden Path Audio ferme ses portes",
+      "Disponible jusqu'au 30 août 2026"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Le contenu est pertinent pour les amateurs de production musicale qui cherchent des instruments de Kontakt à des prix réduits.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique",
+      "actualités dans le domaine du traitement du signal et de l'ingénierie sonore"
+    ]
+  },
+  "8ec256db8d1b7e1ef8f1878667da049503f01ea5b573c65ef35fc64ff09a4d24": {
+    "summary": "Butterlamp Audio a lancé un nouveau synthétiseur wavetable, Tilichu, conçu pour la conception de sons traditionnelle avec une profondeur dans chaque étage. Il comprend deux oscillateurs wavetable morphiques, un moteur d'échantillonnage granulaire et spectral, un moteur de modulation à 32 étages, et douze effets. Il offre également un générateur d'IA qui transforme une description en langage naturel en un patch complet.",
+    "key_points": [
+      "Nouveau synthétiseur wavetable Tilichu de Butterlamp Audio",
+      "Conçu pour la conception de sons traditionnelle avec profondeur",
+      "Contient deux oscillateurs wavetable morphiques et plusieurs moteurs d'échantillonnage",
+      "Disponible en formats VST3 et AU, et en version standalone pour macOS"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Le synthétiseur Tilichu correspond aux intérêts de l'utilisateur en matière de production musicale et de nouvelles technologies dans le domaine de la musique.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique",
+      "actualités dans le domaine du traitement du signal et de l'ingénierie sonore"
+    ]
+  },
+  "e1aefc6147c3ca33c891b85962c290461d47131c6d1cd184dd9c48e19235b690": {
+    "summary": "XLN Audio propose une promotion limitée sur une sélection de ses effets créatifs, instruments virtuels et packs d'extensions. Les produits populaires comme le RC-20 Retro Color et le DB-30 Drum Butter sont proposés à des réductions de jusqu'à 60%.",
+    "key_points": [
+      "Promotion sur effets créatifs, instruments virtuels et packs d'extensions de XLN Audio",
+      "Réduction de jusqu'à 60%",
+      "Produits populaires inclus : RC-20 Retro Color, XO drum playground et DB-30 Drum Butter",
+      "Offre disponible jusqu'au 9 septembre 2026"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les intérêts de l'utilisateur couvrent largement ce type de promotion dans le domaine de la production musicale, ce qui en fait une source d'information pertinente.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique",
+      "actualités dans le domaine du traitement du signal et de l'ingénierie sonore"
+    ]
+  },
+  "f17fe61dd61a9c3db70a9b6305630f237f66f57b62d477466cc7f3994c6b9078": {
+    "summary": "La nouvelle hypercar Hennessey Blackbird a été vendue en seulement 4 heures pour un prix de 2,1 millions d'euros lors de la Monterey Car Week 2026. Cette hypercar, inspirée de l'avion espion Lockheed SR-71 Blackbird, est vendue à 71 exemplaires limités et a été rapidement vendue en raison de son design attrayant et de sa conception purement analogique.",
+    "key_points": [
+      "La Hennessey Blackbird a été vendue en 4 heures pour 2,1 millions d'euros lors de la Monterey Car Week 2026.",
+      "C'est la troisième hypercar de Hennessey, après les Venom GT et Venom F5.",
+      "La Blackbird est vendue à 71 exemplaires limités, tous attribués à des clients.",
+      "La Blackbird est une hypercar purement analogique, avec un V8 atmosphérique et une boîte manuelle à 6 rapports."
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "L'article couvre une hypercar récente et unique, ce qui correspond à l'intérêt des lecteurs passionnés d'automobiles.",
+    "matched_interests": [
+      "nouveaux modèles pour les passionés",
+      "stratégies de constructeurs",
+      "avancées technologiques (hors IA, conduite autonome et électrification)"
+    ]
+  },
+  "0b83a278f62a10c7bb58dc94c9ad70bc07b10432e2f17625060c8d62a70dafc4": {
+    "summary": "AudioDeluxe propose un réverbère PSP 2445 EMT à 80% de sa valeur régulière, soit 29 USD, jusqu'au 31 août. Ce plugin est inspiré par deux réverbères analogiques célèbres et a été amélioré par PSP pour un son plus musical.",
+    "key_points": [
+      "Réverbère PSP 2445 EMT à 80% de sa valeur régulière",
+      "Proposé par AudioDeluxe jusqu'au 31 août",
+      "Inspiration des réverbères analogiques EMT 244 et EMT 245",
+      "Améliorations apportées par PSP pour un son plus musical"
+    ],
+    "recommendation": true,
+    "relevance_score": 80,
+    "reason": "Les intérêts de l'utilisateur couvrent le domaine de la production musicale et des plugins, ce qui rend cet article pertinent.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique"
+    ]
+  },
+  "e6de19264e7f263844f60ed55a4b7d1d8168bf2642971f0d84a1a52572addf3e": {
+    "summary": "HOFA-Plugins a annoncé une extension pour son environnement de traitement modulaire HOFA SYSTEM. Le ThirdPartyPluginLoader permet aux producteurs, mixeurs et maîtrisières d'intégrer directement leurs plugins existants dans HOFA SYSTEM, combinant-les librement avec les modules, structures de routage et sources de modulation de SYSTEM. Cela permet une expansion significative de la collection de plugins d'un ingénieur.",
+    "key_points": [
+      "Extension de la collection de plugins pour ingénieurs de son",
+      "Permet de combiner plugins existants avec les modules de SYSTEM",
+      "Offre de nouvelles fonctionnalités comme le multibande, le mid/side et la feedback",
+      "Compatibilité avec plusieurs formats de plugins (VST, AU, AAX)"
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les intérêts de l'utilisateur incluent la production de musique, l'automobile et l'horlogerie. Le contenu de l'article concerne des plugins pour la production musicale, ce qui correspond à ses intérêts.",
+    "matched_interests": [
+      "nouveaux produits de production musicale (Ableton, synthétiseurs, table de mixage, plugins, etc.)",
+      "actualités sur les avancées technologiques dans le domaine de la musique",
+      "actualités dans le domaine du traitement du signal et de l'ingénierie sonore"
+    ]
+  },
+  "8b0edbd90c3a2ac013a93bfcf637aec2a932e7d030c8bfd586858243ca0b7781": {
+    "summary": "Dans le Finistère sud de la Bretagne, des voitures de touristes parisiens ont été rayées et gravées de messages hostiles. Cette situation soulève des tensions entre résidents et visiteurs, alors que la région accueille un flux de touristes croissant.",
+    "key_points": [
+      "Des voitures de Parisiens ont été rayées et gravées de messages hostiles dans le Finistère sud de la Bretagne.",
+      "Le maire de Plobannalec-Lesconil a réagi aux incidents, appelant à une meilleure cohabitation entre résidents et touristes.",
+      "La région vit largement du tourisme, ce qui soulève des tensions avec la présence de touristes de hauts revenus.",
+      "Le taux de fréquentation est de 15 millions de touristes par an, avec 30% provenant de l'Île-de-France."
+    ],
+    "recommendation": true,
+    "relevance_score": 85,
+    "reason": "Les incidents mentionnés dans l'article sont pertinents pour les intérêts informatifs de l'utilisateur, qui est passionné par l'automobile et l'horlogerie. Les détails sur la fréquentation touristique et les tensions entre résidents et touristes sont également pertinents.",
+    "matched_interests": [
+      "nouveaux modèles pour les passionés",
+      "stratégies de constructeurs",
+      "avancées technologiques (hors IA, conduite autonome et électrification)"
+    ]
+  }
+}

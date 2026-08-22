@@ -111,7 +111,48 @@ Pour construire une application qui collecte chaque jour les actualités qui t�
 - **Performance** : si tu gères beaucoup d’articles, pense à ne requêter l’IA que sur les articles les plus pertinents. Tu peux aussi paralléliser la collecte avec `asyncio` ou `concurrent.futures`.  
 - **Données personnelles** : fais attention aux données sensibles (par ex. assure-toi que les sources sont fiables). Évite de publier ces informations en public si ton app utilise tes notes internes.
 
-## 10. Résumé du flux global
+## 10. Implémentation IA actuelle
+
+L'analyse IA est implémentée dans le bloc clairement identifié `BLOC IA` de `flux.py`.
+Elle utilise Ollama et le modèle local gratuit `qwen2.5:3b` par défaut. Installe
+Ollama depuis https://ollama.com, puis télécharge et démarre le modèle :
+
+```powershell
+ollama pull qwen2.5:3b
+ollama serve
+```
+
+Dans un autre terminal, lance la collecte :
+
+```powershell
+python flux.py
+```
+
+Ce fonctionnement est gratuit à l'usage et les articles restent sur la machine. Les
+paramètres principaux peuvent être modifiés dans `flux.py` (`DEFAULT_AI_MODEL`,
+`DEFAULT_MAX_AI_ARTICLES`, `DEFAULT_OLLAMA_URL`, `AI_SYSTEM_PROMPT`) ou au lancement :
+
+```powershell
+python flux.py --ai-model qwen2.5:3b --max-ai-articles 100 --ollama-url http://localhost:11434/api/generate
+```
+
+`OLLAMA_MODEL` et `OLLAMA_URL` permettent de changer ces paramètres sans modifier le
+code. `--without-ai` lance
+une collecte locale sans appel réseau à l'IA. En l'absence de clé, ce mode de repli est
+automatiquement utilisé et les articles restent classés avec leur score local.
+
+Pour chaque article, l'IA reçoit le contenu, la catégorie, le score local et le contexte
+correspondant de `preferences.json` (`profil`, `interets`, `exclure` et règles générales).
+Elle écrit dans `articles.json` les champs `ai_summary`, `ai_key_points`,
+`ai_recommendation`, `ai_relevance_score`, `ai_reason`, `ai_matched_interests` et
+`final_score`. Le score final combine le score local à 45 % et l'évaluation IA à 55 %.
+
+Les résultats sont mis en cache dans `ai_cache.json`. Le cache est réutilisé uniquement
+si l'article, les préférences et le modèle sont identiques. Modifier `preferences.json`
+ou le modèle force donc automatiquement une nouvelle analyse. Le fichier de cache peut
+être supprimé manuellement pour tout recalculer.
+
+## 11. Résumé du flux global
 
 Pour synthétiser, voici comment ton système va fonctionner chaque jour :
 
